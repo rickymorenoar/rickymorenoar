@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://dummyimage.com/1200x6/5c3a21/5c3a21.png" width="100%">
 </div>
 
 ## ⚙️ `CATATAN_BENGKEL`
@@ -65,17 +65,17 @@ Lokasi     = Buduran, Jawa Timur, ID
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickymorenoar&show_icons=true&theme=cobalt2&hide_border=true&bg_color=2b1a0e&title_color=D4AB6A&icon_color=B08D57&text_color=e8d5b5" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=rickymorenoar&show_icons=true&theme=cobalt2&hide_border=true&bg_color=2b1a0e&title_color=D4AB6A&icon_color=B08D57&text_color=e8d5b5" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickymorenoar&theme=cobalt2&hide_border=true&background=2b1a0e&stroke=B08D57&ring=D4AB6A&fire=D4AB6A&currStreakLabel=D4AB6A" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickymorenoar&layout=compact&theme=cobalt2&hide_border=true&bg_color=2b1a0e&title_color=D4AB6A&text_color=e8d5b5" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rickymorenoar&layout=compact&theme=cobalt2&hide_border=true&bg_color=2b1a0e&title_color=D4AB6A&text_color=e8d5b5" width="48%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://dummyimage.com/1200x6/5c3a21/5c3a21.png" width="100%">
 </div>
 
 <div align="center">
